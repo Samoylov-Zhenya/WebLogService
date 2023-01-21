@@ -1,0 +1,58 @@
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\appsettings.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.exe
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.deps.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.runtimeconfig.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.dll
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.pdb
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.AssemblyReference.cache
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.AssemblyInfoInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.AssemblyInfo.cs
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.CoreCompileInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.HelperDebugLoger.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.build.HelperDebugLoger.props
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HelperDebugLoger.props
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HelperDebugLoger.props
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\scopedcss\bundle\HelperDebugLoger.styles.css
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.dll
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\refint\HelperDebugLoger.dll
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.pdb
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.genruntimeconfig.cache
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\ref\HelperDebugLoger.dll
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\bin\Debug\net6.0\LogStandert.pdb
+F:\Projects\ASP 6\HelperDebugLoger\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.CopyComplete
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.exe
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.deps.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.runtimeconfig.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.dll
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\HelperDebugLoger.pdb
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\LogStandert.dll
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\bin\Debug\net6.0\LogStandert.pdb
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.AssemblyInfo.cs
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.HelperDebugLoger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.build.HelperDebugLoger.props
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HelperDebugLoger.props
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HelperDebugLoger.props
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\scopedcss\bundle\HelperDebugLoger.styles.css
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.csproj.CopyComplete
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.dll
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\refint\HelperDebugLoger.dll
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.pdb
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\HelperDebugLoger.genruntimeconfig.cache
+C:\Users\Asus\source\repos\WebLogService\HelperDebugLoger\obj\Debug\net6.0\ref\HelperDebugLoger.dll
