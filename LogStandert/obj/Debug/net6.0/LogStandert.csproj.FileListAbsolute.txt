@@ -1,0 +1,24 @@
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Debug\net6.0\LogStandert.deps.json
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Debug\net6.0\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Debug\net6.0\LogStandert.pdb
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.csproj.AssemblyReference.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.AssemblyInfoInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.AssemblyInfo.cs
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.csproj.CoreCompileInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\refint\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\LogStandert.pdb
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Debug\net6.0\ref\LogStandert.dll
+C:\Users\Asus\source\repos\WebLogService\LogStandert\bin\Debug\net6.0\LogStandert.deps.json
+C:\Users\Asus\source\repos\WebLogService\LogStandert\bin\Debug\net6.0\LogStandert.dll
+C:\Users\Asus\source\repos\WebLogService\LogStandert\bin\Debug\net6.0\LogStandert.pdb
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.AssemblyInfo.cs
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.dll
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\refint\LogStandert.dll
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\LogStandert.pdb
+C:\Users\Asus\source\repos\WebLogService\LogStandert\obj\Debug\net6.0\ref\LogStandert.dll

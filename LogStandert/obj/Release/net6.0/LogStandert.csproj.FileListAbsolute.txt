@@ -1,0 +1,12 @@
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Release\net6.0\LogStandert.deps.json
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Release\net6.0\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\bin\Release\net6.0\LogStandert.pdb
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.csproj.AssemblyReference.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.AssemblyInfoInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.AssemblyInfo.cs
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.csproj.CoreCompileInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\refint\LogStandert.dll
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\LogStandert.pdb
+F:\Projects\ASP 6\HelperDebugLoger\LogStandert\obj\Release\net6.0\ref\LogStandert.dll
