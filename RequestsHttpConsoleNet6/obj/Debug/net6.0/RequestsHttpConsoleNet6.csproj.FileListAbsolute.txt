@@ -1,0 +1,15 @@
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\bin\Debug\net6.0\RequestsHttpConsoleNet6.exe
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\bin\Debug\net6.0\RequestsHttpConsoleNet6.deps.json
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\bin\Debug\net6.0\RequestsHttpConsoleNet6.runtimeconfig.json
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\bin\Debug\net6.0\RequestsHttpConsoleNet6.dll
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\bin\Debug\net6.0\RequestsHttpConsoleNet6.pdb
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.csproj.AssemblyReference.cache
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.AssemblyInfoInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.AssemblyInfo.cs
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.csproj.CoreCompileInputs.cache
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.dll
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\refint\RequestsHttpConsoleNet6.dll
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.pdb
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\RequestsHttpConsoleNet6.genruntimeconfig.cache
+F:\Projects\ASP 6\HelperDebugLoger\RequestsHttpConsoleNet6\obj\Debug\net6.0\ref\RequestsHttpConsoleNet6.dll

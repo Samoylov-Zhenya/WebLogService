@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LocallyCreateLogs/1.0.0": {
+        "dependencies": {
+          "LogStandert": "1.0.0"
+        },
+        "runtime": {
+          "LocallyCreateLogs.dll": {}
+        }
+      },
+      "LogStandert/1.0.0": {
+        "runtime": {
+          "LogStandert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocallyCreateLogs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogStandert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
